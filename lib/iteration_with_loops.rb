@@ -14,5 +14,5 @@ while inner_arrays < src.length do
   end 
   inner_arrays += 1
 end
-new_array
+p new_array
 end
